@@ -1,0 +1,7 @@
+3
+2.50e11
+ 0.0000e+00  0.0000e+00  0.0000e+00  0.0000e+00  2.0490e+30  death_star.gif
+ 2.3190e+11  0.0000e+00  0.0000e+00  1.8100e+04  5.7190e+23       comet.gif
+ 4.8090e+10  0.0000e+00  0.0000e+00  5.2100e+04  3.2120e+23       endor.gif
+
+This Universe has one center planet and 2 other planets that orbit it.
